@@ -1,0 +1,9 @@
+div{
+    text-align: center;
+    color: red;
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: center;
+    background-image: url('./soda-machine.png');
+    height: 100vh;
+}
