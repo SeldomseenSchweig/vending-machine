@@ -1,0 +1,7 @@
+nav a {
+    color: blue;
+  }
+  
+  nav a.active {
+    color: black;
+  }
